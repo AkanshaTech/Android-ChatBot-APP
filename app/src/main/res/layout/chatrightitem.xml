@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/btnconti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:layout_below="@+id/textView"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="7dp">
+
+        <TextView
+            android:id="@+id/show_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="7dp"
+            app:fontFamily="@font/sourcesanspro_regular"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/sendbg"
+            android:paddingLeft="7dp"
+            android:paddingTop="10dp"
+            android:paddingRight="7dp"
+            android:lineSpacingExtra="20dp"
+            android:paddingBottom="10dp"
+            android:text="Solve Your queries with smartbot"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+     <!--   <ImageView
+            android:id="@+id/sendbtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:padding="5dp"
+            android:visibility="gone"
+            android:src="@drawable/user"
+            app:tint="@color/white" />-->
+    </RelativeLayout>
+
+    <TextView
+
+        android:id="@id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="12dp"
+        app:fontFamily="@font/times_new_roman"
+        android:text="You"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+</RelativeLayout>

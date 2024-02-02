@@ -21,7 +21,7 @@ Welcome to our Android Chatbot App! This app harnesses the power of OpenAI's API
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | v1/chat/completions
 
-### Snapshots
+# Snapshots
 
 
 <img src="https://github.com/AkanshaTech/Android-ChatBot-APP/assets/158189086/07c82048-41ab-4902-afb7-3653823dc1a6" alt="Splash Screen" width="300" height="600"/>   

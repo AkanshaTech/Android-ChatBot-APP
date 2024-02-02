@@ -14,7 +14,7 @@ Welcome to our Android Chatbot App! This app harnesses the power of OpenAI's API
 #### Get all items
 
 ```http
-  https://api.openai.com/v1/chat/completionss
+  https://api.openai.com/v1/chat/completions
 ```
 
 | Parameter | Type     | Description                |

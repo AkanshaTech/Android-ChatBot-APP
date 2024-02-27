@@ -25,7 +25,7 @@ Welcome to our Android Chatbot App! This app harnesses the power of OpenAI's API
 
 
 <img src="https://github.com/AkanshaTech/Android-ChatBot-APP/assets/158189086/07c82048-41ab-4902-afb7-3653823dc1a6" alt="Splash Screen" width="300" height="600"/>   
-  <img src="https://github.com/AkanshaTech/Android-ChatBot-APP/assets/158189086/c7ff40d0-fa72-4137-aeed-923587119f79" alt="Main Screen" width="300" height="600"/>  
+ <img src="https://github.com/AkanshaTech/Android-ChatBot-APP/assets/158189086/c7ff40d0-fa72-4137-aeed-923587119f79" alt="Main Screen" width="300" height="600"/>  
     <img src="https://github.com/AkanshaTech/Android-ChatBot-APP/assets/158189086/cfa2c8dd-87af-47b7-a164-eb8e41f280bd" alt="Chat Screen" width="300" height="600"/> 
 <img src="https://github.com/AkanshaTech/Android-ChatBot-APP/assets/158189086/a0614c82-ea76-4712-ad02-f5792e583ec0" alt="Chat Screen" width="300" height="600"/>   
 
